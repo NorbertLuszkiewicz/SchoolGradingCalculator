@@ -21,7 +21,7 @@
   ],
   "license": "ISC",
   "devDependencies": {
-    "minimist": ">=0.2.1",
+    "minimist": ">=1.2.6",
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
